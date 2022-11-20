@@ -1,0 +1,8 @@
+Inheritance is a way to access some other packages variables or methods in an other
+to perform some operations.
+
+A package is a folder consists of one or more classes.
+
+These variables or methods that we declare in other packages may vary from the 
+types. It depends on the user what it should be used for. Like, public, protected, 
+private, package-private.
